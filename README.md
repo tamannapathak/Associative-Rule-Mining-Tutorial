@@ -7,9 +7,9 @@ A tutorial on the practical importance of interestingness measure selection in a
 
 ## Contents
 
-tamanna_24175478.pdf
-tamanna_24175478.ipynb
-requirements.txt 
+tamanna_24175478.pdf,
+tamanna_24175478.ipynb,
+requirements.txt,
 LICENSE
 
 
