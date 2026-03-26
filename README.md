@@ -25,7 +25,6 @@ LICENSE
 8. Empirical comparison: rank correlation heatmap, scatter plot 
 9. Top rule profiles
 10. When to use which measure
-11. 
 ## Accessibility
 
  All figures use a colourblind friendly palette 
