@@ -32,3 +32,5 @@ LICENSE
  Minimum font size 12pt used in all plots
  PDF is text selectable
 
+## How to use 
+Use any python interface like Jupyter, Google Colab and run all the cells in the order they are put in. The dataset used is mentioned in the notebook and in report as well
